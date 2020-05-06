@@ -103,7 +103,7 @@ userInput+=1;
 			}
 
 		}
-if (entry_dtls.size()==9 && (line!=("XXX"))) 
+if (entry_dtls.size()==9 && (line!=("XXX") && line!=("OOO"))) 
 				{
 					System.out.println("draw");
 						userInput+=9;
